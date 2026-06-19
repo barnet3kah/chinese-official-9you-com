@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barnet3kah.github.io/chinese-official-9you-com/sitemap.xml
